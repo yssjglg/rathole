@@ -1,3 +1,4 @@
+# DONT USE THIS REPO. THIS IS ONLY FOR TESTING CI
 # rathole
 ![rathole-logo](./docs/img/rathole-logo.png)
 
